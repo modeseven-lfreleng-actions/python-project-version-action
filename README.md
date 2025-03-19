@@ -20,6 +20,12 @@ An example workflow step using this action:
     uses: lfreleng-actions/python-project-version-action@main
 ```
 
+## Inputs
+
+| Output Variable     | Description                                    |
+| ------------------- | ---------------------------------------------- |
+| PATH_PREFIX         | Directory path to the repository/project files |
+
 ## Outputs
 
 <!-- markdownlint-disable MD013 -->
